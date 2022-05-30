@@ -1,2 +1,1 @@
-list = list(input().split())
-print(len(list))
+print(len(list(input().split())))
